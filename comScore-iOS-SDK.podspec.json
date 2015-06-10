@@ -5,8 +5,8 @@
   "description": "The comScore Application Tag provides an application measurement solution that is designed to provide complete usage reporting about the application lifecycle. For applications on mobile devices that includes usage reporting even when the device does not have any available data connection.",
   "homepage": "https://www.comscore.com",
   "license": {
-    "type": "MIT",
-    "file": "LICENSE"
+    "type": "Copyright",
+    "text": "Copyright (C) 2015 comScore, Inc."
   },
   "authors": {
     "Sanjit Saluja": "loopwhile1@gmail.com"
